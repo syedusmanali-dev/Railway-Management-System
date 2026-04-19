@@ -99,7 +99,12 @@ Writing clean modular functions
 
 ## 🎥 Demo Video
 
-[![Watch Demo](https://img.youtube.com/vi/jR_3RiXApPY/0.jpg)](https://youtu.be/jR_3RiXApPY)
+<h2 align="center">🎥 Demo Video</h2>
+<p align="center">
+  <a href="https://youtu.be/jR_3RiXApPY">
+    <img src="https://img.youtube.com/vi/jR_3RiXApPY/0.jpg" alt="Watch Demo">
+  </a>
+</p>
 
 # 👨‍💻 Author
 
