@@ -99,15 +99,17 @@ Writing clean modular functions
 
 # 🎥 Demo Video
 
-[![Watch Demo](https://img.youtube.com/vi/jR_3RiXApPY/0.jpg)](https://youtu.be/jR_3RiXApPY)
+[▶ Watch Demo](https://youtube.com/watch?v=your-video-id)
 
-📌 Future Improvements
+# 📌 Future Improvements
+
 Add database (MySQL / SQLite)
 GUI version (Tkinter or Web-based)
 Ticket printing system
 Better authentication system (hashed passwords)
 Search & filter trains
-👨‍💻 Author
+
+# 👨‍💻 Author
 
 Syed Usman Ali
 💻 Computer Science Student | AI Enthusiast
