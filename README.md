@@ -1,9 +1,9 @@
-🚆 Railway Management System (Python Console App)
+# 🚆 Railway Management System (Python Console App)
 
 A simple console-based Railway Management System built in Python for practicing core programming concepts.
 This project simulates basic railway operations like train management, ticket booking, and customer handling using file-based storage.
 
-🧠 Project Description
+# 🧠 Project Description
 
 This system is designed for learning and practice purposes. It demonstrates how a real-world railway booking system can be structured using basic Python concepts such as file handling, data persistence, and modular programming.
 
@@ -14,9 +14,10 @@ It includes two main user roles:
 
 Each role has different permissions to manage trains, reservations, and users.
 
-🛠️ Tech Stack
+# 🛠️ Tech Stack
 
 💻 Programming Language
+
 Python 3.x
 
 📚 Libraries Used
@@ -44,7 +45,7 @@ CLI (Command Line Interface) design
 Data persistence without database
 Role-based system (Admin & Customer)
 
-✨ Features
+# ✨ Features
 
 👨‍💼 Admin Features
 Add new trains
@@ -60,7 +61,7 @@ Book train tickets
 Cancel reservations
 View available trains
 
-🚆 System Features
+# 🚆 System Features
 
 Seat availability tracking
 Automatic seat deduction on booking
@@ -68,7 +69,7 @@ File-based data storage
 Colored CLI output for better UX
 Data validation (basic checks)
 
-📦 Project Structure
+# 📦 Project Structure
 
 Railway-System/
 │
@@ -80,14 +81,14 @@ Railway-System/
 ├── backup/
 └── README.md
 
-🚀 How to Run
+# 🚀 How to Run
 
 1️⃣ Install Requirements
 pip install colorama
 2️⃣ Run the project
 python main.py
 
-🎯 What I Learned
+# 🎯 What I Learned
 
 How real-world systems manage bookings
 File handling in Python (read/write/update)
